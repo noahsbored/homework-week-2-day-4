@@ -3,9 +3,8 @@ import string  # straight up learnt  about this concept  through chatgpt, i figu
 
                 
 
-                
 
-
+#i now see that i forgot to  code the part where it replaces the key words with caps. but now  i already saw you do it on preclass which is a shame. Ill take the L like a man though
 
 reviews = [
     "This product is really good. I'm impressed with its quality.",
